@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 최보미
+## 최보미
 - LinkedIn: https://www.linkedin.com/in/bomidev/ </br>
-- Portfolio: https://thirsty-sock-ce7.notion.site/a9f57e1d651440d1a48f02c8c978fe9a?v=dee206b050df4e53896c9d2350551b38
+- Notion: https://thirsty-sock-ce7.notion.site/Resume-3575965d4a95410d81f51695d46f9210
