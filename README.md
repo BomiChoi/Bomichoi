@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **BomiChoi/Bomichoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 최보미
+- LinkedIn: https://www.linkedin.com/in/bomidev/ </br>
+- Portfolio: https://thirsty-sock-ce7.notion.site/a9f57e1d651440d1a48f02c8c978fe9a?v=dee206b050df4e53896c9d2350551b38
