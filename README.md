@@ -23,8 +23,6 @@
 ***
 
 ### 📱 Contacts
-<section>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&link=mailto:hibomi97@gmail.com"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bomidev">
-    <img src="https://img.shields.io/badge/Notion Portpolio-000000?logo=Notion&logoColor=white&link=https://thirsty-sock-ce7.notion.site/Bomi-Choi-3575965d4a95410d81f51695d46f9210">
-</section>
+[![Gmail](https://img.shields.io/badge/Gmail-hibomi97@gmail.com-EA4335?logo=Gmail&logoColor=white&link=mailto:hibomi97@gmail.com)](mailto:hibomi97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bomidev)](https://www.linkedin.com/in/bomidev)
+[![Notion Portpolio](https://img.shields.io/badge/Notion%20Portpolio-000000?logo=Notion&logoColor=white&link=https://thirsty-sock-ce7.notion.site/Bomi-Choi-3575965d4a95410d81f51695d46f9210)](https://thirsty-sock-ce7.notion.site/Bomi-Choi-3575965d4a95410d81f51695d46f9210)
